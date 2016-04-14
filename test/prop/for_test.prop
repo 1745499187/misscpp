@@ -1,0 +1,16 @@
+######################################################################
+# for_test.prop - a test properties file
+######################################################################
+
+[sect1]
+key1=value1
+key2
+key3=
+key4 =  value4
+
+[sect2]
+key1=value1
+key2
+
+[sect1]
+key2=new value 2
